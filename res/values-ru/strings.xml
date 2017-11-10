@@ -100,12 +100,13 @@
   <string name="clock_font_title">Часы полужирным</string>
   <string name="clock_font_minutes_title">Минуты полужирным</string>
   <string name="clock_font_date_title">Дата и будильник полужирным</string>
+  <string name="show_date_title">Показывать дату</string>
   <string name="show_alarm_title">Показывать будильник</string>
   <string name="clock_am_pm_title">Показывать индикатор «AM/PM»</string>
   <string name="weather_enabled">Включено</string>
   <string name="weather_enable">Показывать погоду</string>
   <string name="weather_source_title">Сервер погоды</string>
-  <string name="weather_source_yahoo">Yahoo! Weather</string>
+  <string name="weather_source_yahoo">Погода Yahoo!</string>
   <string name="weather_use_custom_location">Не определять автоматически</string>
   <string name="weather_geolocated">Местоположение по сети</string>
   <string name="weather_custom_location_dialog_title">Введите местоположение</string>
